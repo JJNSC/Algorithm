@@ -21,7 +21,7 @@ public class Count_P_Y {
 			}
 		}
 		if(cntp != cnty) {
-			answer =false;
+			answer =false;  
 		}
 		System.out.println(answer);
 
