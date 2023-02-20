@@ -15,8 +15,8 @@ public class HashadeNum {
 			answer=true;
 		}else {
 			answer=false;
-			}
+			}              
 	    System.out.println(answer);
-
+ 
 	}  
 }
