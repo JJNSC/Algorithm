@@ -17,7 +17,7 @@ public class CollatzNumber {
 			if(num ==1) {
 				break;
 			}
-		}
+		}  
 		
 		if(num ==1) {
 			System.out.println(cnt);

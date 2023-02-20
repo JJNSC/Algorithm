@@ -18,5 +18,5 @@ public class HashadeNum {
 			}              
 	    System.out.println(answer);
  
-	}  
+	}    
 }
