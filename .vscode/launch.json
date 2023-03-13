@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Make_Max",
+            "request": "launch",
+            "mainClass": "com.Lv0.Make_Max",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
