@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Turn_Array",
+            "request": "launch",
+            "mainClass": "com.Lv0.Turn_Array",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Change_Index",
             "request": "launch",
             "mainClass": "com.Lv0.Change_Index",
