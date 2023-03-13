@@ -1,0 +1,386 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Angle",
+            "request": "launch",
+            "mainClass": "com.Lv0.Angle",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Ant_Army",
+            "request": "launch",
+            "mainClass": "com.Lv0.Ant_Army",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Array_Flip",
+            "request": "launch",
+            "mainClass": "com.Lv0.Array_Flip",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Array_average",
+            "request": "launch",
+            "mainClass": "com.Lv0.Array_average",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Compare_two_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Compare_two_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "ConditionToMakeRectangle",
+            "request": "launch",
+            "mainClass": "com.Lv0.ConditionToMakeRectangle",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Count_Duplicated_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Count_Duplicated_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Count_even_odd",
+            "request": "launch",
+            "mainClass": "com.Lv0.Count_even_odd",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Cut_Array",
+            "request": "launch",
+            "mainClass": "com.Lv0.Cut_Array",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Decode",
+            "request": "launch",
+            "mainClass": "com.Lv0.Decode",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Delete_specific_char",
+            "request": "launch",
+            "mainClass": "com.Lv0.Delete_specific_char",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Delete_vowel",
+            "request": "launch",
+            "mainClass": "com.Lv0.Delete_vowel",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Discount_ClothShop",
+            "request": "launch",
+            "mainClass": "com.Lv0.Discount_ClothShop",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Divide_and_multiple1000",
+            "request": "launch",
+            "mainClass": "com.Lv0.Divide_and_multiple1000",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Divide_two_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Divide_two_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Dots_Position",
+            "request": "launch",
+            "mainClass": "com.Lv0.Dots_Position",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Double_Array",
+            "request": "launch",
+            "mainClass": "com.Lv0.Double_Array",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Get_MiddleNumber",
+            "request": "launch",
+            "mainClass": "com.Lv0.Get_MiddleNumber",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Get_age",
+            "request": "launch",
+            "mainClass": "com.Lv0.Get_age",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Hate_even",
+            "request": "launch",
+            "mainClass": "com.Lv0.Hate_even",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "IceAmericano",
+            "request": "launch",
+            "mainClass": "com.Lv0.IceAmericano",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Left_two_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Left_two_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Length_ElementOfArray",
+            "request": "launch",
+            "mainClass": "com.Lv0.Length_ElementOfArray",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Letter",
+            "request": "launch",
+            "mainClass": "com.Lv0.Letter",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "LineUpString",
+            "request": "launch",
+            "mainClass": "com.Lv0.LineUpString",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Make_MaximunNum",
+            "request": "launch",
+            "mainClass": "com.Lv0.Make_MaximunNum",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Multiple_Two_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Multiple_Two_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "NumsOfDices",
+            "request": "launch",
+            "mainClass": "com.Lv0.NumsOfDices",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Odd_And_Even",
+            "request": "launch",
+            "mainClass": "com.Lv0.Odd_And_Even",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "PrintStringManyTimes",
+            "request": "launch",
+            "mainClass": "com.Lv0.PrintStringManyTimes",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Propagate_Virus",
+            "request": "launch",
+            "mainClass": "com.Lv0.Propagate_Virus",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Right_Rectangle",
+            "request": "launch",
+            "mainClass": "com.Lv0.Right_Rectangle",
+            "console": "integratedTerminal",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "RockScissorsPaper",
+            "request": "launch",
+            "mainClass": "com.Lv0.RockScissorsPaper",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Select_nth_multipleNum",
+            "request": "launch",
+            "mainClass": "com.Lv0.Select_nth_multipleNum",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Share_Pizza1",
+            "request": "launch",
+            "mainClass": "com.Lv0.Share_Pizza1",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Share_Pizza3",
+            "request": "launch",
+            "mainClass": "com.Lv0.Share_Pizza3",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Sheep_Stick",
+            "request": "launch",
+            "mainClass": "com.Lv0.Sheep_Stick",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Similarity_between_twoArrays",
+            "request": "launch",
+            "mainClass": "com.Lv0.Similarity_between_twoArrays",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Small_Letter_Capital_Letter",
+            "request": "launch",
+            "mainClass": "com.Lv0.Small_Letter_Capital_Letter",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "SquareOrNot",
+            "request": "launch",
+            "mainClass": "com.Lv0.SquareOrNot",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "SquenceCouple",
+            "request": "launch",
+            "mainClass": "com.Lv0.SquenceCouple",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "StringInString",
+            "request": "launch",
+            "mainClass": "com.Lv0.StringInString",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Sub_two_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Sub_two_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Sum_digits",
+            "request": "launch",
+            "mainClass": "com.Lv0.Sum_digits",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Sum_hiddenNums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Sum_hiddenNums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Sum_two_nums",
+            "request": "launch",
+            "mainClass": "com.Lv0.Sum_two_nums",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "SumofEven",
+            "request": "launch",
+            "mainClass": "com.Lv0.SumofEven",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Upsidedown_String",
+            "request": "launch",
+            "mainClass": "com.Lv0.Upsidedown_String",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Whos_BiggerThanMe",
+            "request": "launch",
+            "mainClass": "com.Lv0.Whos_BiggerThanMe",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "CollatzNumber",
+            "request": "launch",
+            "mainClass": "com.Lv1.CollatzNumber",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Count_P_Y",
+            "request": "launch",
+            "mainClass": "com.Lv1.Count_P_Y",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "HashadeNum",
+            "request": "launch",
+            "mainClass": "com.Lv1.HashadeNum",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "StringToInteger",
+            "request": "launch",
+            "mainClass": "com.Lv1.StringToInteger",
+            "projectName": "Algorithm"
+        }
+    ]
+}
