@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Change_Index",
+            "request": "launch",
+            "mainClass": "com.Lv0.Change_Index",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Make_Max",
             "request": "launch",
             "mainClass": "com.Lv0.Make_Max",
