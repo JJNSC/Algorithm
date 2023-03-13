@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Share_Pizza2",
+            "request": "launch",
+            "mainClass": "com.Lv0.Share_Pizza2",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Age_AilenPlanet",
             "request": "launch",
             "mainClass": "com.Lv0.Age_AilenPlanet",
