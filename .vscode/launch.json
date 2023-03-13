@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Age_AilenPlanet",
+            "request": "launch",
+            "mainClass": "com.Lv0.Age_AilenPlanet",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Turn_Array",
             "request": "launch",
             "mainClass": "com.Lv0.Turn_Array",
