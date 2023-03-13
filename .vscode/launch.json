@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Game_369",
+            "request": "launch",
+            "mainClass": "com.Lv0.Game_369",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Share_Pizza2",
             "request": "launch",
             "mainClass": "com.Lv0.Share_Pizza2",
