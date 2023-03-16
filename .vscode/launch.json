@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Multi_Processions",
+            "request": "launch",
+            "mainClass": "com.Lv2.Multi_Processions",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
+            "name": "Find_number",
+            "request": "launch",
+            "mainClass": "com.Lv0.Find_number",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Divison",
             "request": "launch",
             "mainClass": "com.Lv0.Divison",
