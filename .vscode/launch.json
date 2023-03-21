@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sort_Array2",
+            "request": "launch",
+            "mainClass": "com.Lv0.Sort_Array2",
+            "projectName": "Algorithm"
+        },
+        {
+            "type": "java",
             "name": "Multi_Processions",
             "request": "launch",
             "mainClass": "com.Lv2.Multi_Processions",
